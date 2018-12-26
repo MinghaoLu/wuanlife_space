@@ -118,8 +118,7 @@ export default {
     }
     section {
       min-width: 0;
-      //flex: 0 0 448px;
-      flex: 1 1 70%;
+      flex: 0 0 680px;
       order: 1;
       header {
         margin: 31px 0 12px 0;
